@@ -1,0 +1,5 @@
+ControlID,ControlName,ControlOwner,Frequency,EvidenceRequired,TestStatus
+C01,Site and library ownership,Information Governance,Quarterly,Owner register and review,Not run
+C02,Least privilege access,Data Owner / IT,Quarterly,Access review and negative test,Not run
+C03,Metadata quality,Data Steward,Quarterly,Library metadata sample,Not run
+C04,Retention authority and hold check,Records Manager,Before disposition,Approval and authority record,Not run

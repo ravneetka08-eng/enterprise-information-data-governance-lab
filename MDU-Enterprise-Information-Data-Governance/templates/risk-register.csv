@@ -1,0 +1,4 @@
+RiskID,Risk,Impact,Likelihood,Owner,Treatment,DueDate,Status,Evidence
+R001,Excessive HR library permissions,High,Medium,HR Data Owner,Review memberships and restrict groups,,Proposed,
+R002,Unclear record retention authority,High,Medium,Records Manager,Confirm disposal authority and trigger before policy,,Proposed,
+R003,Unowned SharePoint site,Medium,Medium,IT Service Owner,Assign business owner and quarterly review,,Proposed,

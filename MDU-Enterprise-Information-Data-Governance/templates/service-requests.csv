@@ -1,0 +1,3 @@
+TicketID,DateOpened,RequestType,Summary,Priority,AssignedTo,EscalationTo,Resolution,Status,Evidence
+SR-001,,Permission enquiry,Fictional HR folder shared too widely,High,Service Desk,Privacy Officer / IT Security,Not yet actioned,Tabletop scenario,
+SR-002,,Metadata guidance,Finance staff cannot locate final policy,Medium,Information Governance Officer,Records Manager if record classification issue,Not yet actioned,Tabletop scenario,

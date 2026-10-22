@@ -1,0 +1,5 @@
+Site,Library,Column,Type,Required,AllowedValues,Purpose
+MDU-HR,HR-Restricted-Records,Classification,Choice,Yes,Internal | Confidential | Highly Restricted,Handling sensitivity
+MDU-HR,HR-Restricted-Records,RecordCategory,Choice,Yes,Employment Records | Policies | Procedures,Findability and records classification
+MDU-HR,HR-Restricted-Records,ReviewDate,Date,No,,Periodic review
+MDU-Student,Student-Administration,BusinessOwner,Person or text,Yes,,Accountability

@@ -1,0 +1,3 @@
+RecordCategory,BusinessOwner,RetentionTrigger,RetentionPeriod,DisposalAuthorityReference,LegalHoldCheck,DisposalApprover,Status
+Employee Contract,HR Director,Employment termination,TO BE CONFIRMED,TO BE CONFIRMED,Required,Records Manager,Illustrative only
+Student Enrolment Record,Registrar,Record-specific trigger to be confirmed,TO BE CONFIRMED,TO BE CONFIRMED,Required,Records Manager,Illustrative only

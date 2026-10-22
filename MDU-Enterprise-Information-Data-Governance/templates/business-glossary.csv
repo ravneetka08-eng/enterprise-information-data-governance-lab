@@ -1,0 +1,4 @@
+Term,Definition,Domain,DataOwner,DataSteward,ApprovalStatus,Version,LastReviewed
+Active Student,Student with an active enrolment under the university agreed reporting definition,Student,Registrar,Student Data Steward,Draft,0.1,
+Employee,Individual engaged under an approved employment arrangement,HR,HR Director,HR Data Steward,Draft,0.1,
+Official Record,Information captured as evidence of university activity under approved records rules,Records,Records Manager,Records Steward,Draft,0.1,

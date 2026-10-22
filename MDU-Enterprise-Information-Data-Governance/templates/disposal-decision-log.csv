@@ -1,0 +1,2 @@
+RecordID,RecordCategory,RetentionTrigger,AuthorityReference,HoldChecked,EligibleForDisposal,AuthorisedBy,DecisionDate,Disposition,Evidence,Status
+SIM-001,Employment Records,Not confirmed,Not confirmed,Not checked,Unknown,,,None,,Simulation only

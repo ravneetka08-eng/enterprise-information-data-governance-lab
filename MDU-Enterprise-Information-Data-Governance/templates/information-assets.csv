@@ -1,0 +1,4 @@
+AssetID,AssetName,Department,DataOwner,DataSteward,Classification,System,RecordCategory,ReviewFrequency,Status
+A001,Employee Contracts,HR,HR Director,HR Data Steward,Confidential,SharePoint,Employment Records,Quarterly,Illustrative
+A002,Student Enrolment Register,Student Administration,Registrar,Student Data Steward,Confidential,SharePoint,Student Records,Quarterly,Illustrative
+A003,Approved Finance Policies,Finance,Finance Director,Finance Data Steward,Internal,SharePoint,Policies,Annual,Illustrative

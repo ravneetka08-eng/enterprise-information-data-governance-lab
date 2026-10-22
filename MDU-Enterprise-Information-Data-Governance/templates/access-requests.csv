@@ -1,0 +1,3 @@
+RequestID,Requester,AssetID,BusinessPurpose,RequestedRole,DataStewardRecommendation,DataOwnerDecision,DecisionDate,ITImplemented,ExpiryDate,Evidence,Status
+AR-001,Fictional Finance Analyst,A003,Review approved finance policy,Read,Recommend approve,Pending,,No,,,Sample - not executed
+AR-002,Fictional Research Assistant,A001,General interest in HR records,Read,Recommend reject,Pending,,No,,,Sample - not executed
