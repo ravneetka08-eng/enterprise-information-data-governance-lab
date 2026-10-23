@@ -24,5 +24,3 @@ These are **illustrative MDU roles**, not a claim about Swinburne's internal org
 ## Example: employee contract
 HR creates an employee contract -> HR Data Owner defines authorised users -> SharePoint HR restricted library stores it -> metadata identifies classification and record category -> Entra group membership enables authorised access -> approved retention/disposal rules are assessed -> Records Manager supervises formal recordkeeping/authorised disposition. A Teams chat does not grant unrestricted HR access.
 
-## Why this architecture matters in interviews
-It distinguishes business ownership from technical administration, collaboration platforms from the identity provider, and retention policy from lawful records disposal.
