@@ -14,5 +14,4 @@
 ## Example record metadata
 RecordID (synthetic), Title, BusinessOwner, RecordCategory, Classification, CreationDate, CaptureDate, DisposalAuthorityReference, RetentionTrigger, HoldStatus, DisposalDecision, Approver, EvidenceLink.
 
-## Interview honesty
-Say "I documented a Content Manager integration and a simulated disposal approval process" rather than "I deployed Content Manager" unless you actually did.
+
