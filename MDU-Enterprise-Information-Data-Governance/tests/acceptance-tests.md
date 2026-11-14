@@ -1,4 +1,4 @@
-# Acceptance tests — do not mark PASS without evidence
+# Acceptance tests
 
 | ID | Control | Test procedure | Expected outcome | Status |
 |---|---|---|---|---|
